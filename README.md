@@ -14,4 +14,4 @@ Imágenes Principio *.png — Capturas del código original y corregido de cada 
 Portada .png — Portada del documento.
 
 Autor
-Juan Reyes-"Este trabajo no habia que subirlo a git pero lo hice así para tener más organización
+Juan Reyes-"Este trabajo no había que subirlo a git pero lo hice así para tener más organización con las codigos"
