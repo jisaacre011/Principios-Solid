@@ -9,9 +9,9 @@ Reflexión final.
 
 Archivos
 
-SOLID_Juan_Reyes.md — Documentación completa de la actividad.
-Imágenes Principio *.png — Capturas del código original y corregido de cada parte.
-Portada .png — Portada del documento.
+SOLID_Juan_Reyes.md — Documentación completa.
+Imágenes con carbon del código original y corregido de cada parte.
+Portada.png — Portada del documento.
 
 Autor
-Juan Reyes-"Este trabajo no había que subirlo a git pero lo hice así para tener más organización con las codigos"
+Juan Reyes-"Este trabajo no había que subirlo a git pero lo hice así para tener más organización con las imagenes"
